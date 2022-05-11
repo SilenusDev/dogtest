@@ -1,0 +1,70 @@
+body {
+    background-color: black;
+}
+
+.backTest {
+    width: 100%;
+}
+
+.boxTest {
+    width:500px;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    color: lightgray;
+    text-align: center;
+}
+
+.boxTest img {
+    width: 100%
+}
+
+.textBox p {
+    text-align: justify;
+}
+
+form {
+    display: none;
+}
+
+.choices {
+    display: flex;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin: 0px;
+    padding: 0px;
+}
+
+.myInputs {
+    width: 100%;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(90deg, red, yellow, green );
+    border-radius: 5px;
+    border: 1px rgb(0, 0, 0) solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+tr {
+    width: 460px;
+}
+
+td {
+    width: 260px;
+}
+
+
+
+
+
+
+
+
+   
+	
+
